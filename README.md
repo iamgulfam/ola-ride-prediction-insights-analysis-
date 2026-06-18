@@ -148,8 +148,8 @@ The dashboard surfaces a **28.08% cancellation rate** as the single biggest oper
 
 ## 👤 Author and Contact
 
-Gulfam Raza
-B.Tech Information Technology, RKGIT Ghaziabad
+**Gulfam Raza**
+B.Tech – Information Technology, RKGIT Ghaziabad
 
 🎓 CGPA: 8.02 | First Division with Distinction
 
@@ -157,3 +157,7 @@ Specialisation: Data Analytics & its related roles.
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/gulfamraza1)
 - 📧 Email: razagulfam0786@gmail.com
 - 📞 Mobile no: +916395528887
+
+---
+
+⭐ If this project helped you, give it a star on GitHub!
