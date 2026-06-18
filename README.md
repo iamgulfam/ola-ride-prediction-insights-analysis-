@@ -89,7 +89,7 @@ OLA generates massive daily ride data but raw numbers alone don't answer busines
 ---
 
 ### 2. Vehicle Type
-![Vehicle Type Dashboard](images/Vehicle Type.png)
+![Vehicle Type Dashboard](images/Vehicle_Type.png)
 > Comparison table: Total Booking Value, Success Booking Value, Avg Distance Travelled, Total Distance Travelled across 7 vehicle types
 
 ---
@@ -152,6 +152,7 @@ The dashboard surfaces a **28.08% cancellation rate** as the single biggest oper
 
 Gulfam Raza
 B.Tech Information Technology, RKGIT Ghaziabad
+
 🎓 CGPA: 8.02 | First Division with Distinction
 Specialisation: Data Analytics & its related roles
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/gulfamraza1)
