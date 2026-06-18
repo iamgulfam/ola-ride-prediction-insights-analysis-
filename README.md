@@ -110,8 +110,6 @@ OLA generates massive daily ride data but raw numbers alone don't answer busines
 ![Ratings Dashboard](images/Ratings.png)
 > Driver Ratings by Vehicle Type (table), Customer Ratings by Vehicle Type (table)
 
-> 📁 Place your dashboard screenshots inside an `images/` folder in the repo root with these exact filenames: `Overall.png`, `Vehicle_Type.png`, `Revenue.png`, `Cancellation.png`, `Ratings.png`
-
 ---
 
 ## ▶️ How to Run This Project
