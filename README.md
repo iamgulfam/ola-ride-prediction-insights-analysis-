@@ -6,13 +6,13 @@
 
 ## 🎯 Objective
 
-Analyze one month of OLA ride data to surface cancellation patterns, revenue trends, vehicle performance, and rating behavior across 103,024 bookings.
+Analyse one month of OLA ride data to surface cancellation patterns, revenue trends, vehicle performance, and rating behaviour across 103,024 bookings.
 
 ---
 
 ## 📋 Overview
 
-This project answers 10 real SQL business questions and presents insights across 5 Power BI dashboard views: Overall, Vehicle Type, Revenue, Cancellation, and Ratings. The dataset was generated using ChatGPT prompts to simulate realistic OLA ride records, then cleaned and analyzed end-to-end.
+This project answers 10 real SQL business questions and presents insights across 5 Power BI dashboard views: Overall, Vehicle Type, Revenue, Cancellation, and Ratings. The dataset was generated using ChatGPT prompts to simulate realistic OLA ride records, then cleaned and analysed end-to-end.
 
 ---
 
